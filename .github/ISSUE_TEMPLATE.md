@@ -1,4 +1,10 @@
-Please fill out the sections as required. For **quick fixes** (i.e. grammar, typos, etc.) only fill in the *QUICK FORM* section). **New content** requires all fields except *QUICK FORM* and *Feature modification date*. *Content changes* require all fields except *QUICK FORM*. *Feature release date*, *Go-live date* and *Feature description*.
+Please fill out the required sections.
+
+**Quick fixes** (i.e. grammar, typos, etc.) only require the *QUICK FORM* section. 
+
+**New content** requires all fields except *QUICK FORM* and *Feature modification date*. 
+
+**Content changes** require all fields except *QUICK FORM*. *Feature release date*, *Go-live date* and *Feature description*.
 
 ### QUICK FORM: (for grammar, typos, rephrasing ONLY):
 
@@ -6,7 +12,7 @@ Please fill out the sections as required. For **quick fixes** (i.e. grammar, typ
 
 ### Go-live date in Adjust QA dash:
 
-### Feature modification date (for *content changes only*; please note if subject to change):
+### Feature modification date (please note if subject to change):
 
 ### Feature name, Github issue(s):
 
