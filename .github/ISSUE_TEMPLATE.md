@@ -1,10 +1,8 @@
 Please fill out the required sections and delete the unnecessary sections.
 
-**Quick fixes** (i.e. grammar, typos, etc.) only require the *QUICK FORM* section. 
-
-**New content** requires all fields except *QUICK FORM* and *Feature modification date*. 
-
-**Content changes** require all fields except *QUICK FORM*. *Feature release date*, *Go-live date* and *Feature description*.
+- **Quick fixes** (i.e. grammar, typos, etc.) only require the *QUICK FORM* section. 
+- **New content** requires all fields except *QUICK FORM* and *Feature modification date*. 
+- **Content changes** require all fields except *QUICK FORM*. *Feature release date*, *Go-live date* and *Feature description*.
 
 ### QUICK FORM: (for grammar, typos, rephrasing ONLY):
 
