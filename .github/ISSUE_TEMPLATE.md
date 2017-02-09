@@ -1,4 +1,4 @@
-Please fill out the required sections.
+Please fill out the required sections and delete the unnecessary sections.
 
 **Quick fixes** (i.e. grammar, typos, etc.) only require the *QUICK FORM* section. 
 
